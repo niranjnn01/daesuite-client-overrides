@@ -1,0 +1,11 @@
+[
+    {
+        "uri": "client-custom-report",
+        "method": "GET",
+        "action": "PageController",
+        "middleware": ["web", "auth"],
+        "params": {
+            "view": "pages.client-custom-report"
+        }
+    }
+]
