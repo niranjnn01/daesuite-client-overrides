@@ -1,11 +1,11 @@
 [
     {
-        "uri": "client-custom-report",
+        "uri": "external-programs",
         "method": "GET",
         "action": "PageController",
         "middleware": ["web", "auth"],
         "params": {
-            "view": "pages.client-custom-report"
+            "view": "pages.external-programs"
         }
     }
 ]
