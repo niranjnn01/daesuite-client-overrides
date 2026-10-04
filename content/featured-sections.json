@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "name": "why-choose-us",
+      "title": "Why Choose Us",
+      "description": "Practical technology, designed around the way small businesses work.",
+      "is_active": true,
+      "items": [
+        {
+          "name": "built-for-small-businesses",
+          "eyebrow": "Enterprise Capabilities, Without Enterprise Complexity",
+          "title": "Built for Businesses Like Yours",
+          "description": "From small shops to growing enterprises, our ERP adapts to your business needs. Get the tools to manage daily operations without the complexity and overhead of traditional enterprise software.",
+          "media_type": "icon",
+          "media": "store",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "simple-and-intuitive",
+          "eyebrow": "Technology That Works for Everyone",
+          "title": "Simple by Design",
+          "description": "Powerful software doesn't have to be complicated. Our intuitive, easy-to-use ERP helps you manage your business confidently, with less time spent learning software and more time focused on what matters.",
+          "media_type": "icon",
+          "media": "layers",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "affordable-and-scalable",
+          "eyebrow": "Start Small, Grow Without Limits",
+          "title": "Affordable & Scalable",
+          "description": "Access the features you need today without paying for what you don't. Start with essential business operations and expand as your business grows, keeping technology costs practical and predictable.",
+          "media_type": "icon",
+          "media": "trending-up",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "connected-business-operations",
+          "eyebrow": "One System, Better Visibility",
+          "title": "Everything Working Together",
+          "description": "Bring your business operations together in one connected system. From inventory and purchasing to people and organizational management, reduce manual work, minimize errors, and make better-informed decisions.",
+          "media_type": "icon",
+          "media": "workflow",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        }
+      ]
+    }
+  ]
+}
