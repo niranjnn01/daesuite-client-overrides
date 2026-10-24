@@ -143,17 +143,6 @@
           "media_url": null,
           "open_in_new_tab": false,
           "is_active": true
-        },
-        {
-          "name": "client-countries",
-          "eyebrow": "",
-          "title": "15",
-          "description": "Client Countries",
-          "media_type": "icon",
-          "media": "globe-europe-africa",
-          "media_url": null,
-          "open_in_new_tab": false,
-          "is_active": true
         }
       ]
     }
