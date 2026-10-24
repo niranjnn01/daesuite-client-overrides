@@ -4,6 +4,7 @@
 
 
     
+    @isset($pages['home']['highlights'])
     <x-system::layout.container class="mb-10">
 
         <div class="flex justify-center gap-3">
@@ -17,6 +18,6 @@
         </div>    
 
     </x-system::layout.container>
-
+    @endisset
 
 @endsection
