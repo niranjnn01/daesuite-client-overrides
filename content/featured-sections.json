@@ -51,6 +51,113 @@
           "is_active": true
         }
       ]
+    },
+
+    {
+      "name": "homepg-stats",
+      "title": "HomePage Stats",
+      "description": "",
+      "is_active": true,
+      "items": [
+        {
+          "name": "clients-served",
+          "eyebrow": "",
+          "title": "500+",
+          "description": "clients served",
+          "media_type": "icon",
+          "media": "users",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "papers-presented",
+          "eyebrow": "",
+          "title": "1200+",
+          "description": "Papers presented",
+          "media_type": "icon",
+          "media": "briefcase",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "accolades-received",
+          "eyebrow": "",
+          "title": "15+",
+          "description": "Accolades received",
+          "media_type": "icon",
+          "media": "trending-up",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "client-countries",
+          "eyebrow": "",
+          "title": "15",
+          "description": "Client Countries",
+          "media_type": "icon",
+          "media": "globe-europe-africa",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "name": "highlights",
+      "title": "Highlights",
+      "description": "",
+      "is_active": true,
+      "items": [
+        {
+          "name": "data-ownership",
+          "eyebrow": "",
+          "title": "100% Data Ownership",
+          "description": "Your data stays entirely yours. Self-hosting gives you complete authority, zero third-party exposure, and full control over your business records.",
+          "media_type": "icon",
+          "media": "lock-closed",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "own-computation",
+          "eyebrow": "",
+          "title": "Own your computation",
+          "description": "Enjoy total control! With our perpetual license, you own the computation that handles your data as well.",
+          "media_type": "icon",
+          "media": "code-bracket",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "best-value",
+          "eyebrow": "",
+          "title": "Best value for money",
+          "description": "The low upfront fee you pay once, eliminates recurring subscription payments. value increases over time.",
+          "media_type": "icon",
+          "media": "banknotes",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        },
+        {
+          "name": "client-countries",
+          "eyebrow": "",
+          "title": "15",
+          "description": "Client Countries",
+          "media_type": "icon",
+          "media": "globe-europe-africa",
+          "media_url": null,
+          "open_in_new_tab": false,
+          "is_active": true
+        }
+      ]
     }
+
+
   ]
 }
